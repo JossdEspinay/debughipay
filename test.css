@@ -1065,3 +1065,7 @@ div.controls {
     top : -273px !important;
     left : 0px !important;
 }
+
+body {
+background-color:#f00;
+}
